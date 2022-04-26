@@ -45,9 +45,18 @@
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
+
+#Free Assets
+Content/StarterContent/*
+Content/Bicycle_With_Animations/*
+Content/FPWeapon/*
+Content/GreenwoodFantasyVillage/*
+
+
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
+
 
 # Builds
 Build/*
